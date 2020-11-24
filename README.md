@@ -12,7 +12,9 @@
 
 
 
-[![SungMin Ahn' profile](https://github-readme-stats.vercel.app/api?username=asm9677)](https://github.com/asm9677/github-readme-stats)
+[![SungMin Ahn' profile](https://github-readme-stats.vercel.app/api?username=asm9677)](https://github.com/asm9677)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asm9677&layout=compact)](https://github.com/asm9677)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=asm9677)](https://solved.ac/asm9677)
 
 
 
