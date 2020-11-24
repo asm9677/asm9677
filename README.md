@@ -2,13 +2,13 @@
   <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasm9677"/></a>
 
   [![Gitblog Badge](http://img.shields.io/badge/-GitBlog-black?style=flat-square&logo=github&link=https://asm9677.github.io/)](https://asm9677.github.io/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asm9677@gmail.com)](mailto:asm9677@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkstjdals960925@gmail.com)](mailto:asm9677@gmail.com)
 
 </div>
 
-##### 🌱 I’m currently learning in SSAFY
+##### Hi 🖐
 ### Skill
-`Java` `C++` `Python` `Spring` `SpringBoot` `Vue` `Javascript`
+`Vue` `Javascript` `Java` `Spring` `SpringBoot` `C++` `Python` 
 
 
 
