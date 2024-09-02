@@ -9,7 +9,7 @@
 ##### Hi 🖐
 ### Skill
 ------------------
-`Vue` `Javascript` `Java` `Spring` `SpringBoot` `C++` `Python` 
+`Solidity` `React` `Typescript` `Web3` `Python`
 
 
 
