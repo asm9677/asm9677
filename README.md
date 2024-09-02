@@ -9,7 +9,7 @@
 ##### Hi 🖐
 ### Skill
 ------------------
-`Solidity` `React` `Typescript` `Web3` `Python`
+`Solidity` `React` `Vue` `Typescript` `Web3` `Python`
 
 
 
